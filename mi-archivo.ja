@@ -1,2 +1,2 @@
-alert("hola mundo_editado");
-console.log("cambios en el archivo")
+alert("Segundas parte trabajo semana 02\n Buenos dias\n 23/01/2025");
+console.log("Primer trabajo entregable semana 02")
